@@ -12,7 +12,7 @@
 
 &mmv_input_listener { input-processors = <&zip_xy_scaler 2 2>; };
 
-&msc_input_listener { input-processors = <&zip_scroll_scaler 8 8>; };
+&msc_input_listener { input-processors = <&zip_scroll_scaler 6 6>; };
 
 &msc {
     acceleration-exponent = <1>;      // 0
